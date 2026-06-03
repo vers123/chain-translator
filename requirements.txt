@@ -1,0 +1,4 @@
+gTTS>=2.5.0
+translators>=5.9.0
+deep-translator>=1.11.0
+urllib3==1.26.18

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+chain_translator.egg-info/
+__pycache__/
+results/
+audio/
+15steps/
+20steps/
+custom/
+*.mp3
+*.log
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
